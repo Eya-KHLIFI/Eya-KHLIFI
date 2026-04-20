@@ -111,22 +111,14 @@ Scalable multi-entity search service in Symfony
 
 🗂️ [View all certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
 
-| | Certificate | Issuer | Date |
-|---|---|---|---|
-| 🎓 | Machine Learning Specialization | DeepLearning.AI | Apr 2026 |
-| 🔒 | Connect and Protect: Networks and Network Security | Google | Jul 2024 |
-| 🤖 | Introduction to Generative AI | Google Cloud | Jan 2024 |
-| 🧠 | Introduction to Large Language Models | Google Cloud | Jan 2024 |
-| 🛡️ | Foundations of Cybersecurity | Google | Jul 2023 |
-
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya2105&show_icons=true&hide=issues&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eya-KHLIFI&show_icons=true&hide=issues&theme=default&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya2105&layout=compact&theme=default&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eya-KHLIFI&layout=compact&theme=default&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 ---
