@@ -7,7 +7,6 @@ Engineering student @ **INSAT, Tunisia** — building things at the intersection
 - 🌍 Looking for an AI / AI-Security / SWE internship from June 2026 — remote or on-site  
 - 📬 eya.khlifi@insat.ucar.tn · [LinkedIn](https://linkedin.com/in/eya-khlifi)
 
----
 
 ## Stack
 
@@ -49,7 +48,6 @@ Engineering student @ **INSAT, Tunisia** — building things at the intersection
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 ## Featured Projects
 
@@ -66,7 +64,6 @@ Human-in-the-loop module with confidence scoring for uncertain cases.
 
 `Python` `PyTorch` `Federated Learning` `Anomaly Detection`
 
----
 
 ### 🔐 [FaceRecognitionAI — Biometric Auth System](https://github.com/eya2105/FaceRecognitionAI)
 *Team platform — solo contribution · 2025*
@@ -76,7 +73,6 @@ Dual-mode flow: face recognition + automatic password fallback + audit logging.
 
 `Django` `Python` `dlib/ResNet` `JavaScript` `Computer Vision`
 
----
 
 ### 🔥 [Firewall Log Analysis Platform](https://github.com/eya2105/firewall-analysis-project)
 *Team project — backend (auth & security) · 2026*
@@ -86,7 +82,6 @@ Parsers for Cisco ASA, Fortigate, and Windows Defender logs.
 
 `NestJS` `TypeScript` `PostgreSQL` `JWT` `RBAC`
 
----
 
 ### 📊 [Customer Review Analysis](https://github.com/eya2105/customer_review_analysis)
 *Team project — data pipeline & classical ML · 2025*
@@ -95,7 +90,6 @@ Selenium scraper → preprocessing → Naïve Bayes / LR / Random Forest benchma
 
 `Python` `scikit-learn` `HuggingFace` `NLP`
 
----
 
 ## Experience
 
@@ -105,11 +99,9 @@ Selenium scraper → preprocessing → Naïve Bayes / LR / Random Forest benchma
 🏢 **Software Engineering Intern · ETC Tunisia** *(Jul 2024)*  
 Scalable multi-entity search service in Symfony
 
----
 
-## 📄 Certificates (https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
+## 📄 [Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
 
----
 
 ## GitHub Stats
 
