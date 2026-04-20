@@ -2,10 +2,10 @@
 
 Engineering student @ **INSAT, Tunisia** — building things at the intersection of **AI and security**.
 
-- 🎓 Networks & Telecom Engineering · AI specialization · Cybersecurity track  
-- 🔭 Currently: building a federated learning IDS for real-time DDoS detection *(PFA)*  
-- 🌍 Looking for an AI / AI-Security / SWE internship from June 2026 — remote or on-site  
-- 📬 eya.khlifi@insat.ucar.tn · [LinkedIn](https://linkedin.com/in/eya-khlifi)
+-  Networks & Telecom Engineering · AI specialization · Cybersecurity track  
+-  Currently: building a federated learning IDS for real-time DDoS detection *(PFA)*  
+-  Looking for an AI / AI-Security / SWE internship from June 2026 — remote or on-site  
+-  eya.khlifi@insat.ucar.tn · [LinkedIn](https://linkedin.com/in/eya-khlifi)
 
 
 ## Stack
@@ -65,42 +65,26 @@ Human-in-the-loop module with confidence scoring for uncertain cases.
 `Python` `PyTorch` `Federated Learning` `Anomaly Detection`
 
 
-### 🔐 [FaceRecognitionAI — Biometric Auth System](https://github.com/eya2105/FaceRecognitionAI)
-*Team platform — solo contribution · 2025*
-
-ResNet CNN (dlib) → **128-dim face embeddings** → real-time webcam auth.
-Dual-mode flow: face recognition + automatic password fallback + audit logging.
-
-`Django` `Python` `dlib/ResNet` `JavaScript` `Computer Vision`
-
-
-### 🔥 [Firewall Log Analysis Platform](https://github.com/eya2105/firewall-analysis-project)
-*Team project — backend (auth & security) · 2026*
-
-JWT rotation · RBAC · permission guards · audit logging · account lockout.
-Parsers for Cisco ASA, Fortigate, and Windows Defender logs.
-
-`NestJS` `TypeScript` `PostgreSQL` `JWT` `RBAC`
-
-
-### 📊 [Customer Review Analysis](https://github.com/eya2105/customer_review_analysis)
-*Team project — data pipeline & classical ML · 2025*
-
-Selenium scraper → preprocessing → Naïve Bayes / LR / Random Forest benchmarking → transformer fine-tuning. My part: full pipeline + all classical ML models.
-
-`Python` `scikit-learn` `HuggingFace` `NLP`
+### 🫁 [Respiratory Sound Classification — ICBHI 2017](https://github.com/Eya-KHLIFI/icbhi-respiratory-sound-classification)
+*Ongoing · 2026*
+ 
+Abnormal lung sound detection on the **ICBHI 2017 benchmark** — a real medical challenge dataset used in clinical AI research.
+ 
+Using **Audio Spectrogram Transformer (AST)** with **SAM optimizer (Sharpness Aware Minimization)**, with focus on maximizing **recall/sensitivity** for abnormal cases — the metric that matters most in medical diagnostics where missing a pathology is costlier than a false alarm.
+ 
+`Python` `PyTorch` `HuggingFace` `Medical AI` `Audio Classification`
 
 
 ## Experience
 
-🏢 **AI Engineering Intern · Yonnov'IA** *(France, Remote · Jun–Aug 2025)*  
+ **AI Engineering Intern · Yonnov'IA** *(France, Remote · Jun–Aug 2025)*  
 8+ LLMs benchmarked · 200K+ sample multilingual pipeline (FR/EN/AR) · Qwen2.5-7B fine-tuned with LoRA 8-bit 
 
-🏢 **Software Engineering Intern · ETC Tunisia** *(Jul 2024)*  
+ **Software Engineering Intern · ETC Tunisia** *(Jul 2024)*  
 Scalable multi-entity search service in Symfony
 
 
-## 📄 [Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
+## [Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
 
 
 ## GitHub Stats
