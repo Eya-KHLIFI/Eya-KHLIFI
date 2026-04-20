@@ -100,16 +100,14 @@ Selenium scraper → preprocessing → Naïve Bayes / LR / Random Forest benchma
 ## Experience
 
 🏢 **AI Engineering Intern · Yonnov'IA** *(France, Remote · Jun–Aug 2025)*  
-8+ LLMs benchmarked · 200K+ sample multilingual pipeline (FR/EN/AR) · Qwen2.5-7B fine-tuned with LoRA 8-bit · 
+8+ LLMs benchmarked · 200K+ sample multilingual pipeline (FR/EN/AR) · Qwen2.5-7B fine-tuned with LoRA 8-bit 
 
 🏢 **Software Engineering Intern · ETC Tunisia** *(Jul 2024)*  
 Scalable multi-entity search service in Symfony
 
 ---
 
-## Certifications
-
-🗂️ [View all certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
+## 📄 Certificates (https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
 
 ---
 
