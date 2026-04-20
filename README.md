@@ -4,7 +4,7 @@ Engineering student @ **INSAT, Tunisia** — building things at the intersection
 
 - 🎓 Networks & Telecom Engineering · AI specialization · Cybersecurity track  
 - 🔭 Currently: building a federated learning IDS for real-time DDoS detection *(PFA)*  
-- 🌍 Looking for an **AI / AI-Security / SWE internship ** from June 2026 — remote or on-site  
+- 🌍 Looking for an AI / AI-Security / SWE internship from June 2026 — remote or on-site  
 - 📬 eya.khlifi@insat.ucar.tn · [LinkedIn](https://linkedin.com/in/eya-khlifi)
 
 ---
@@ -53,7 +53,7 @@ Engineering student @ **INSAT, Tunisia** — building things at the intersection
 
 ## Featured Projects
 
-### 🛡️ [FedGuard — Federated Learning for Real-Time DDoS Detection](https://github.com/eya2105/FedGuard)
+### 🛡️ [FedGuard — Federated Learning for Real-Time DDoS Detection]([https://github.com/eya2105/FedGuard](https://github.com/Eya-KHLIFI/Federated-Learning-for-DDoS-Detection))
 *End-of-Year Project (PFA) · Ongoing · 2026*
 
 After identifying critical limitations in existing public datasets, generated a **synthetic network traffic dataset (91K+ samples)** with 11 statistical features via a custom sliding-window pipeline.
