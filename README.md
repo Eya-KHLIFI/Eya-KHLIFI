@@ -6,7 +6,7 @@ Engineering student @ **INSAT, Tunisia** — building things at the intersection
 -  Currently: building a federated learning IDS for real-time DDoS detection *(PFA)*  
 -  Looking for an AI / AI-Security / SWE internship from June 2026 — remote or on-site  
 -  eya.khlifi@insat.ucar.tn · [LinkedIn](https://linkedin.com/in/eya-khlifi)
-
+*Tunis, Tunisia · Open to relocation*
 
 ## Stack
 
@@ -97,5 +97,5 @@ Scalable multi-entity search service in Symfony
 
 ---
 
-*Tunis, Tunisia · Open to relocation*
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:b44fc4,100:3d5af1&height=80&section=footer)
