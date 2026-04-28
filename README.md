@@ -60,6 +60,7 @@ Benchmarked **8 detection models** → selected **Autoencoder with Dropout**:
 **AUC-ROC = 1.000 · F1 = 0.9999 · FPR = 0.01%**
 
 Federated Learning (FedAvg) across distributed clients — no raw data centralization.
+
 Human-in-the-loop module with confidence scoring for uncertain cases.
 
 `Python` `PyTorch` `Federated Learning` `Anomaly Detection`
