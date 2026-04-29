@@ -85,7 +85,7 @@ Using **Audio Spectrogram Transformer (AST)** with **SAM optimizer (Sharpness Aw
 Scalable multi-entity search service in Symfony
 
 
-## [Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)
+<u>## [Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)<u>
 
 
 ## GitHub Stats
