@@ -71,7 +71,7 @@ Human-in-the-loop module with confidence scoring for uncertain cases.
  
 Abnormal lung sound detection on the **ICBHI 2017 benchmark** — a real medical challenge dataset used in clinical AI research.
  
-Using **Audio Spectrogram Transformer (AST)** with **SAM optimizer (Sharpness Aware Minimization)**, with focus on maximizing **recall/sensitivity** for abnormal cases — the metric that matters most in medical diagnostics where missing a pathology is costlier than a false alarm.
+Using **Audio Spectrogram Transformer (AST)** with **SAM optimizer (Sharpness Aware Minimization)**, with focus on maximizing **recall/sensitivity** for abnormal cases.
  
 `Python` `PyTorch` `HuggingFace` `Medical AI` `Audio Classification`
 
