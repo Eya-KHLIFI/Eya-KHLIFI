@@ -96,7 +96,6 @@ Scalable multi-entity search service in Symfony
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eya-KHLIFI&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
 </p>
 
----
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:b44fc4,100:3d5af1&height=80&section=footer)
