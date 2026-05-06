@@ -87,13 +87,11 @@ Scalable multi-entity search service in Symfony
 
 ## <u>[Certificates](https://drive.google.com/drive/folders/1SOgdLK2VlNJZcGigoosboFTH5PQXHcQW?usp=drive_link)<u>
 
-
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya2105&show_icons=true&hide=issues&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eya2105&show_icons=true&hide=issues&theme=radical&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya2105&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eya2105&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 
